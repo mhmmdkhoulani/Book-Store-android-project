@@ -9,18 +9,24 @@ Is a simple android app
 - Clean and modern design
 - Ready to communicate with the API
 
-##Activities
-Welcome Activity
+## Activities
+
+### Welcome Activity 
+
 ![](https://github.com/mhmmdkhoulani/Book-Store-android-project/blob/main/images/main.png)
 
-Login Activity
+### Login Activity
+
 ![](https://github.com/mhmmdkhoulani/Book-Store-android-project/blob/main/images/login.png)
 
-Register Activity
+### Register Activity
+
 ![](https://github.com/mhmmdkhoulani/Book-Store-android-project/blob/main/images/register.png)
 
-Home Activity
+### Home Activity
+
 ![](https://github.com/mhmmdkhoulani/Book-Store-android-project/blob/main/images/Home.png)
 
-Add new book Activity
+### Add new book Activity
+
 ![](https://github.com/mhmmdkhoulani/Book-Store-android-project/blob/main/images/add.png)
